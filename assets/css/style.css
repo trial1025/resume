@@ -590,6 +590,13 @@ section {
   font-weight: bolder;
   color: #728394;
 }
+
+.portfolio .small img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  transition: 0.3s;
+}
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
